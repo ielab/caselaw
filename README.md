@@ -1,3 +1,6 @@
+---
+redirect_to: "/caselaw"
+---
 # Caselaw
 
 Content related to case law search. 
