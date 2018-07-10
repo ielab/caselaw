@@ -1,5 +1,3 @@
-# Caselaw
-
 Content related to case law search. 
 
 # Collection 
