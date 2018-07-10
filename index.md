@@ -25,3 +25,15 @@ If you use this collection in your research, please cite:
 
 # USSC Collection
 [USSC Collection](https://github.com/ielab/ussc-caselaw-collection) contains a small collection for evaluating automatic query reduction. This collection is a subset of the documents in the main collection. Instructions for creating the collection are detailed in the repository.
+
+If you use this collection in your research, please cite: 
+```
+@inproceedings{Airs,
+  title={Automatic Query Generation from Legal Texts for Case Law Retrieval},
+  author={Locke, Daniel and Zuccon, Guido and Scells, Harrisen},
+  booktitle={Asia Information Retrieval Symposium},
+  pages={181--193},
+  year={2017},
+  organization={Springer}
+}
+```
