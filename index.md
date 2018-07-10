@@ -1,6 +1,6 @@
 Content related to case law search. 
 
-# Collection 
+## Collection 
 [Collection](collection) contains a general purpose test collection for evaluating systems for case law search. 
 
 To create the collection: 
@@ -23,7 +23,10 @@ If you use this collection in your research, please cite:
 }
 ```
 
-# USSC Collection
+## Assessment interface
+The interface used to assess documents in the caselaw collection is made available [here](https://github.com/dan-locke/caselaw-relevance-interface). A hosted interface will be available later. 
+
+## USSC Collection
 [USSC Collection](https://github.com/ielab/ussc-caselaw-collection) contains a small collection for evaluating automatic query reduction. This collection is a subset of the documents in the main collection. Instructions for creating the collection are detailed in the repository.
 
 If you use this collection in your research, please cite: 
